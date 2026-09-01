@@ -1,0 +1,65 @@
+about:
+  description: Terminal based IDE & text editor: easy, powerful and fast
+  license: GPL-2.0
+  homepage: https://getfresh.dev/
+  head: 93741f1
+  archived: false
+  latestVersion: v0.4.10
+  collectedAt: 2026-09-01T05:51:43Z
+timeline:
+  created: 2024-12-24
+  lastCommit: 2026-08-30
+  lastRelease: 2026-08-20
+popularity:
+  star: 8606
+  watcher: 30
+  fork: 323
+  release: 105
+  contributor: 64
+  pullRequest: 207
+  issue: 1124
+language:
+  Rust: 28518351
+  TypeScript: 2436988
+  Python: 310212
+  JavaScript: 302908
+  Shell: 193330
+  CSS: 154578
+  HTML: 96030
+  Tree-sitter Query: 11159
+  Nix: 7753
+  Roff: 2625
+totalLine: 32033934
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 3
+    mergedPR: 122
+    openPR: 24
+    closedIssue: 29
+    openIssue: 51
+    commit: 368
+  last90d:
+    since: 2026-06-03
+    release: 11
+    mergedPR: 498
+    openPR: 51
+    closedIssue: 204
+    openIssue: 110
+    commit: 1706
+  last180d:
+    since: 2026-03-05
+    release: 32
+    mergedPR: 1100
+    openPR: 67
+    closedIssue: 466
+    openIssue: 190
+    commit: 4720
+  last360d:
+    since: 2025-09-06
+    release: 100
+    mergedPR: 1708
+    openPR: 72
+    closedIssue: 878
+    openIssue: 246
+    commit: 8468
