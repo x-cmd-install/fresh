@@ -1,26 +1,28 @@
 about:
-  description: Terminal based IDE & text editor: easy, powerful and fast
+  description:
+  |
+    Terminal based IDE & text editor: easy, powerful and fast
   license: GPL-2.0
   homepage: https://getfresh.dev/
-  head: cf626fc
+  head: eb068b1
   archived: false
   latestVersion: v0.4.10
-  collectedAt: 2026-09-03T05:20:19Z
+  collectedAt: 2026-09-03T22:35:01Z
 timeline:
   created: 2024-12-24
-  lastCommit: 2026-09-02
+  lastCommit: 2026-09-03
   lastRelease: 2026-08-20
 popularity:
-  star: 8648
+  star: 8667
   watcher: 29
-  fork: 327
+  fork: 329
   release: 105
-  contributor: 64
+  contributor: 65
   pullRequest: 217
-  issue: 1144
+  issue: 1154
 language:
-  Rust: 30180105
-  TypeScript: 2552726
+  Rust: 30462442
+  TypeScript: 2573655
   Python: 310212
   JavaScript: 308686
   Shell: 193325
@@ -29,37 +31,37 @@ language:
   Tree-sitter Query: 11159
   Nix: 8085
   Roff: 2625
-totalLine: 33817531
+totalBytes: 34120797
 recent:
   last30d:
     since: 2026-08-04
     release: 3
-    mergedPR: 126
+    mergedPR: 138
     openPR: 34
-    closedIssue: 34
+    closedIssue: 44
     openIssue: 64
-    commit: 456
+    commit: 470
   last90d:
     since: 2026-06-05
     release: 10
-    mergedPR: 495
-    openPR: 61
-    closedIssue: 204
-    openIssue: 123
-    commit: 1794
+    mergedPR: 507
+    openPR: 60
+    closedIssue: 215
+    openIssue: 122
+    commit: 1808
   last180d:
     since: 2026-03-07
     release: 30
-    mergedPR: 1100
-    openPR: 77
-    closedIssue: 465
-    openIssue: 199
-    commit: 4808
+    mergedPR: 1112
+    openPR: 76
+    closedIssue: 479
+    openIssue: 195
+    commit: 4822
   last360d:
     since: 2025-09-08
     release: 100
-    mergedPR: 1720
-    openPR: 82
-    closedIssue: 885
-    openIssue: 259
-    commit: 8556
+    mergedPR: 1732
+    openPR: 81
+    closedIssue: 900
+    openIssue: 254
+    commit: 8570
