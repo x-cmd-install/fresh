@@ -2,26 +2,26 @@ about:
   description: "Terminal based IDE & text editor: easy, powerful and fast"
   license: GPL-2.0
   homepage: https://getfresh.dev/
-  head: 566ad6c
+  head: fbddf64
   archived: false
   latestVersion: "v0.4.10"
-  collectedAt: 2026-09-07T05:44:19Z
+  collectedAt: 2026-09-07T18:44:40Z
 timeline:
   created: 2024-12-24
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-08-20
 popularity:
-  star: 8721
+  star: 8726
   watcher: 30
-  fork: 331
+  fork: 332
   release: 105
   contributor: 66
-  pullRequest: 1962
-  issue: 1165
+  pullRequest: 1965
+  issue: 1170
 language:
-  Rust: 30683152
-  TypeScript: 2640613
-  Python: 310212
+  Rust: 30911209
+  TypeScript: 2648443
+  Python: 310181
   JavaScript: 296407
   Shell: 203649
   CSS: 155822
@@ -29,74 +29,74 @@ language:
   Tree-sitter Query: 11159
   Nix: 8085
   Roff: 2625
-totalBytes: 34407754
+totalBytes: 34643610
 recent:
   last30d:
     since: 2026-08-08
     release: 2
-    mergedPR: 140
-    openPR: 25
-    closedIssue: 45
-    openIssue: 62
-    commit: 328
+    mergedPR: 147
+    openPR: 21
+    closedIssue: 47
+    openIssue: 65
+    commit: 342
   last60d:
     since: 2026-07-09
     release: 6
-    mergedPR: 324
-    openPR: 36
-    closedIssue: 115
-    openIssue: 97
-    commit: 1065
+    mergedPR: 331
+    openPR: 32
+    closedIssue: 117
+    openIssue: 100
+    commit: 1079
   last90d:
     since: 2026-06-09
     release: 10
-    mergedPR: 502
-    openPR: 50
-    closedIssue: 215
-    openIssue: 121
-    commit: 1649
+    mergedPR: 509
+    openPR: 46
+    closedIssue: 217
+    openIssue: 124
+    commit: 1663
   last180d:
     since: 2026-03-11
     release: 30
-    mergedPR: 1129
-    openPR: 67
-    closedIssue: 477
-    openIssue: 191
-    commit: 4849
+    mergedPR: 1136
+    openPR: 63
+    closedIssue: 480
+    openIssue: 193
+    commit: 4863
   last360d:
     since: 2025-09-12
     release: 100
-    mergedPR: 1752
-    openPR: 73
-    closedIssue: 910
-    openIssue: 255
-    commit: 8604
+    mergedPR: 1759
+    openPR: 69
+    closedIssue: 914
+    openIssue: 256
+    commit: 8618
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 1753
-    openPR: 73
-    closedIssue: 910
-    openIssue: 255
-    commit: 8738
+    mergedPR: 1760
+    openPR: 69
+    closedIssue: 914
+    openIssue: 256
+    commit: 8752
 total:
   release: 105
-  mergedPR: 1753
-  openPR: 73
-  closedIssue: 910
-  openIssue: 255
-  commit: 8738
+  mergedPR: 1760
+  openPR: 69
+  closedIssue: 914
+  openIssue: 256
+  commit: 8752
 ---
 path: /home/runner/.x-repo/github.com/sinelaw/fresh
-collectedAt: 2026-09-07T05:44:45Z
+collectedAt: 2026-09-07T18:45:04Z
 loc:
   Rust:
-    code: 563594
-    comments: 72091
-    blanks: 75424
-    files: 1221
+    code: 567992
+    comments: 72290
+    blanks: 75567
+    files: 1226
   Json:
-    code: 68071
+    code: 68101
     comments: 0
     blanks: 20
     files: 88
@@ -106,9 +106,9 @@ loc:
     blanks: 28
     files: 10
   TypeScript:
-    code: 47022
-    comments: 22507
-    blanks: 5701
+    code: 47073
+    comments: 22638
+    blanks: 5706
     files: 69
   Python:
     code: 7262
@@ -517,8 +517,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 22413
-    blanks: 7650
+    comments: 22564
+    blanks: 7669
     files: 164
   Text:
     code: 0
@@ -526,15 +526,15 @@ loc:
     blanks: 170
     files: 21
 total:
-  code: 750763
-  comments: 209522
-  blanks: 100474
-  files: 1832
+  code: 755242
+  comments: 210773
+  blanks: 100778
+  files: 1837
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:44:47+00:00
+  collectedAt: 2026-09-07T18:45:06+00:00
   platform:
     darwin/arm64:
       name:  fresh-editor-aarch64-apple-darwin.tar.xz
