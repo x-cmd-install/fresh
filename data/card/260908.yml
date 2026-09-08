@@ -5,13 +5,13 @@ about:
   head: c799418
   archived: false
   latestVersion: "v0.4.10"
-  collectedAt: 2026-09-08T03:03:39Z
+  collectedAt: 2026-09-08T05:45:51Z
 timeline:
   created: 2024-12-24
   lastCommit: 2026-09-07
   lastRelease: 2026-08-20
 popularity:
-  star: 8729
+  star: 8733
   watcher: 30
   fork: 332
   release: 105
@@ -88,7 +88,7 @@ total:
   commit: 8754
 ---
 path: /home/runner/.x-repo/github.com/sinelaw/fresh
-collectedAt: 2026-09-08T03:04:03Z
+collectedAt: 2026-09-08T05:46:15Z
 loc:
   Rust:
     code: 568199
