@@ -1,24 +1,65 @@
 # fresh
 
+[中文版本](./README.cn.md)
+
 Terminal based IDE & text editor: easy, powerful and fast
 
-- **Upstream**: <https://github.com/sinelaw/fresh>
-- **Homepage**: <https://getfresh.dev/>
-- **Latest release**: `v0.5.1` (2026-09-09)
-- **Last commit**: 2026-09-09
-- **License**: GPL-2.0
-- **Stars**: 8758 · **Forks**: 331 · **Open issues**: 1177 · **Contributors**: 67
+![fresh](https://repo.x-cmd.io/fresh.svg)
 
-## Installation
+## Install
 
 ```sh
 x install fresh
 ```
 
-See <https://x-cmd.com/install/fresh> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/sinelaw/fresh>
+- **Homepage**: <https://getfresh.dev/>
+- **License**: GPL-2.0
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T20:24:00Z._
+- **Latest**: `v0.5.1` (2026-09-09)
+- **Last commit**: 2026-09-09
+- **Assets in release**: 58
+- **Published**: 2026-09-09T18:26:50Z
+
+## Popularity
+
+- **Stars**: 8,761 · **Forks**: 332 · **Open issues**: 1,179 · **Contributors**: 67
+
+## Totals (cumulative)
+
+- **Releases**: 107 · **Merged PRs**: 1774 · **Open PRs**: 71 · **Closed issues**: 922 · **Open issues**: 257 · **Commits**: 8783
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 4 | 128 | 19 | 48 | 63 | 373 |
+| 90d | 2026-06-12 | 11 | 510 | 43 | 214 | 124 | 1694 |
+| 360d | 2025-09-15 | 100 | 1773 | 71 | 922 | 257 | 8649 |
+
+## Code size
+
+Total: **758,105** lines of code across **1437** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 571,753 | 72,959 | 75,975 | 1232 |
+| Json | 69,733 | 0 | 20 | 90 |
+| Svg | 48,539 | 21 | 28 | 10 |
+| TypeScript | 47,359 | 22,764 | 5,718 | 69 |
+| Python | 7,307 | 435 | 1,320 | 36 |
+
+## Improve this data
+
+Install metadata for fresh lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `fresh` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/fresh.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T05:58:01Z._
