@@ -2,12 +2,12 @@ about:
   description: "Terminal based IDE & text editor: easy, powerful and fast"
   license: GPL-2.0
   homepage: https://getfresh.dev/
-  head: b15fd83
+  head: 4ff14e7
   archived: false
   latestVersion: "v0.5.1"
   latestRelease: "v0.5.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:51:35Z
+  collectedAt: 2026-09-10T23:54:47Z
 timeline:
   created: 2024-12-24
   lastCommit: 2026-09-10
@@ -15,15 +15,15 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 8774
+  star: 8777
   watcher: 30
-  fork: 333
+  fork: 334
   release: 107
   contributor: 67
-  pullRequest: 1985
-  issue: 1181
+  pullRequest: 1988
+  issue: 1183
 language:
-  Rust: 31186740
+  Rust: 31190880
   TypeScript: 2668626
   Python: 312373
   JavaScript: 311145
@@ -33,72 +33,72 @@ language:
   Tree-sitter Query: 11159
   Nix: 8085
   Roff: 2625
-totalBytes: 34987284
+totalBytes: 34991424
 recent:
   last30d:
     since: 2026-08-11
     release: 4
-    mergedPR: 129
-    openPR: 22
-    closedIssue: 48
-    openIssue: 65
-    commit: 374
+    mergedPR: 130
+    openPR: 24
+    closedIssue: 49
+    openIssue: 66
+    commit: 375
   last60d:
     since: 2026-07-12
     release: 8
-    mergedPR: 323
-    openPR: 35
-    closedIssue: 117
-    openIssue: 92
-    commit: 1111
+    mergedPR: 324
+    openPR: 37
+    closedIssue: 118
+    openIssue: 93
+    commit: 1112
   last90d:
     since: 2026-06-12
     release: 11
-    mergedPR: 511
-    openPR: 46
-    closedIssue: 214
-    openIssue: 126
-    commit: 1695
+    mergedPR: 512
+    openPR: 48
+    closedIssue: 215
+    openIssue: 127
+    commit: 1696
   last180d:
     since: 2026-03-14
     release: 32
-    mergedPR: 1150
-    openPR: 68
-    closedIssue: 482
-    openIssue: 196
-    commit: 4895
+    mergedPR: 1151
+    openPR: 70
+    closedIssue: 483
+    openIssue: 197
+    commit: 4896
   last360d:
     since: 2025-09-15
     release: 100
-    mergedPR: 1774
-    openPR: 74
-    closedIssue: 922
-    openIssue: 259
-    commit: 8650
+    mergedPR: 1775
+    openPR: 76
+    closedIssue: 923
+    openIssue: 260
+    commit: 8651
   last720d:
     since: 2024-09-20
     release: 100
-    mergedPR: 1775
-    openPR: 74
-    closedIssue: 922
-    openIssue: 259
-    commit: 8784
+    mergedPR: 1776
+    openPR: 76
+    closedIssue: 923
+    openIssue: 260
+    commit: 8785
 total:
   release: 107
-  mergedPR: 1775
-  openPR: 74
-  closedIssue: 922
-  openIssue: 259
-  commit: 8784
+  mergedPR: 1776
+  openPR: 76
+  closedIssue: 923
+  openIssue: 260
+  commit: 8785
 ---
 path: /home/runner/.x-repo/github.com/sinelaw/fresh
-collectedAt: 2026-09-10T17:52:01Z
+collectedAt: 2026-09-10T23:55:10Z
 loc:
   Rust:
-    code: 571753
+    code: 571840
     comments: 72959
-    blanks: 75975
-    files: 1232
+    blanks: 75990
+    files: 1233
   Json:
     code: 69733
     comments: 0
@@ -530,10 +530,10 @@ loc:
     blanks: 170
     files: 21
 total:
-  code: 761368
-  comments: 213892
-  blanks: 101554
-  files: 1849
+  code: 761455
+  comments: 213900
+  blanks: 101570
+  files: 1850
 ---
 
 ---
