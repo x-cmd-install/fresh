@@ -4,7 +4,7 @@
 
 Terminal based IDE & text editor: easy, powerful and fast
 
-[![x-cmd/install — fresh Code Quality Monitoring Repo Card](https://repo.x-cmd.io/fresh.svg)](https://x-cmd.com/install/fresh)
+[![x-cmd/install — fresh Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/fresh.svg)](https://x-cmd.com/install/fresh)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install fresh
 
 ## Code insight
 
-Total: **777,799** lines of code across **1500** files in the top 5 languages.
+Total: **740,000** lines of code across **1504** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 578,061 | 72,801 | 76,906 | 1263 |
-| Json | 72,568 | 0 | 20 | 96 |
-| TypeScript | 54,099 | 25,358 | 6,428 | 93 |
-| Svg | 48,540 | 21 | 28 | 10 |
+| Rust | 579,860 | 73,000 | 77,081 | 1267 |
+| Json | 72,776 | 0 | 20 | 96 |
+| TypeScript | 54,240 | 25,484 | 6,447 | 94 |
 | Python | 9,108 | 521 | 1,500 | 38 |
+| Svg | 8,581 | 19 | 7 | 9 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **777,799** lines of code across **1500** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.1` (2026-09-09)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-09-22
 - **Assets in release**: 58
 
 ## Popularity
 
-- **Stars**: 8,988 · **Forks**: 342 · **Open issues**: 1,230 · **Contributors**: 71
+- **Stars**: 8,998 · **Forks**: 342 · **Open issues**: 1,232 · **Contributors**: 71
 
 ## Totals (cumulative)
 
-- **Releases**: 107 · **Merged PRs**: 1810 · **Open PRs**: 75 · **Closed issues**: 932 · **Open issues**: 298 · **Commits**: 8861
+- **Releases**: 107 · **Merged PRs**: 1819 · **Open PRs**: 73 · **Closed issues**: 936 · **Open issues**: 296 · **Commits**: 8878
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 113 | 27 | 38 | 92 | 255 |
-| last60d | 2026-07-24 | 7 | 276 | 39 | 98 | 125 | 839 |
-| 90d | 2026-06-24 | 10 | 438 | 44 | 191 | 158 | 1451 |
-| last180d | 2026-03-26 | 29 | 1104 | 67 | 463 | 232 | 4620 |
-| 360d | 2025-09-27 | 100 | 1809 | 75 | 932 | 298 | 8727 |
-| last720d | 2024-10-02 | 100 | 1810 | 75 | 932 | 298 | 8861 |
+| 30d | 2026-08-24 | 2 | 122 | 24 | 42 | 89 | 272 |
+| last60d | 2026-07-25 | 6 | 282 | 37 | 101 | 123 | 856 |
+| 90d | 2026-06-25 | 10 | 442 | 41 | 191 | 156 | 1468 |
+| last180d | 2026-03-27 | 29 | 1110 | 65 | 467 | 228 | 4637 |
+| 360d | 2025-09-28 | 100 | 1818 | 73 | 936 | 296 | 8744 |
+| last720d | 2024-10-03 | 100 | 1819 | 73 | 936 | 296 | 8878 |
 
 ## Release assets
 
@@ -127,4 +127,4 @@ Install metadata for fresh lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:20:47Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:14:58Z._
