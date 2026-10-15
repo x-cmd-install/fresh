@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 11276660,
       "digest": "sha256:0c924f5377c0af8b27ea6f458416170138c7016abe78253abf74fbe899471290",
-      "download_count": 144,
+      "download_count": 240,
       "created_at": "2026-10-12T19:12:14Z",
       "updated_at": "2026-10-12T19:12:15Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-0.5.3-1.aarch64.rpm"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 99,
       "digest": "sha256:91c7b02b654e2c06fb9a1d7c5a8d2fcc684800267e5dc2eea8bed234372cc349",
-      "download_count": 141,
+      "download_count": 237,
       "created_at": "2026-10-12T19:12:14Z",
       "updated_at": "2026-10-12T19:12:14Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-0.5.3-1.aarch64.rpm.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 10934359,
       "digest": "sha256:71b78e1f054172a77dd437c1884cb4cd8cd6cce25b9ec7fd06137efb8a33ceaa",
-      "download_count": 34,
+      "download_count": 54,
       "created_at": "2026-10-12T19:12:14Z",
       "updated_at": "2026-10-12T19:12:15Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-0.5.3-1.x86_64.rpm"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 98,
       "digest": "sha256:41f2979f0b1f0e6ae2bcbb2a88cbfcc91c32be6dfbb636c09d52cbf37eeee33e",
-      "download_count": 12,
+      "download_count": 23,
       "created_at": "2026-10-12T19:12:14Z",
       "updated_at": "2026-10-12T19:12:15Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-0.5.3-1.x86_64.rpm.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 13437448,
       "digest": "sha256:ca373bbdde6b3c488e4f67087d18e838cbd584b929599b0888d3606775f3c023",
-      "download_count": 9,
+      "download_count": 13,
       "created_at": "2026-10-12T19:12:15Z",
       "updated_at": "2026-10-12T19:12:16Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-0.5.3-aarch64.AppImage"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 102,
       "digest": "sha256:74067b3f7ed9be2775e42392136f867ef3a6f751c971023ed97fe2b0855078c9",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-12T19:12:16Z",
       "updated_at": "2026-10-12T19:12:16Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-0.5.3-aarch64.AppImage.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 51920061,
       "digest": "sha256:6e0432404b5dfd45d01a345af1049cd54a4f8ff707d3ded81466acee02130c27",
-      "download_count": 328,
+      "download_count": 408,
       "created_at": "2026-10-12T19:12:09Z",
       "updated_at": "2026-10-12T19:12:12Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-0.5.3-source.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 13625848,
       "digest": "sha256:fcb585d566887812f4bf42907f86c3d8a5e6fe7560b947859d9919445e984c29",
-      "download_count": 72,
+      "download_count": 115,
       "created_at": "2026-10-12T19:12:15Z",
       "updated_at": "2026-10-12T19:12:16Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-0.5.3-x86_64.AppImage"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 101,
       "digest": "sha256:30e8e78902f4bf4732725198918f95263465b3d1cc283eb05bbd5dc152d96dfa",
-      "download_count": 19,
+      "download_count": 30,
       "created_at": "2026-10-12T19:12:16Z",
       "updated_at": "2026-10-12T19:12:17Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-0.5.3-x86_64.AppImage.sha256"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 10161496,
       "digest": "sha256:9a720e3c24d889a025a151cffdb90b3f753b06810da67cac89e488cdc37ddab4",
-      "download_count": 138,
+      "download_count": 186,
       "created_at": "2026-10-12T19:12:07Z",
       "updated_at": "2026-10-12T19:12:07Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-aarch64-apple-darwin.tar.xz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 107,
       "digest": "sha256:3e001c3bfc8eacb6d2fe6213ac3e2014cc2a589d1ab93b3d629c2ff46d14c7f2",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-10-12T19:12:08Z",
       "updated_at": "2026-10-12T19:12:09Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-aarch64-apple-darwin.tar.xz.sha256"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 13503379,
       "digest": "sha256:3c7b4440e4198260e7134d247ffe790e8f569753564ae27d291df2a03fef9f70",
-      "download_count": 35,
+      "download_count": 46,
       "created_at": "2026-10-12T19:12:11Z",
       "updated_at": "2026-10-12T19:12:12Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-aarch64-pc-windows-msvc.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 11532856,
       "digest": "sha256:9f5538bb6da4d67609c82d7fbc7e2f76dcab385c920856713eee73366351f3a9",
-      "download_count": 12,
+      "download_count": 18,
       "created_at": "2026-10-12T19:12:07Z",
       "updated_at": "2026-10-12T19:12:07Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-aarch64-unknown-linux-gnu.tar.xz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 15463282,
       "digest": "sha256:2129475978a50dd8106bb9f58a3d68e86740a6554504c3df35218086ee6589c6",
-      "download_count": 60,
+      "download_count": 106,
       "created_at": "2026-10-12T19:12:09Z",
       "updated_at": "2026-10-12T19:12:10Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-aarch64-unknown-linux-musl.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 113,
       "digest": "sha256:a7f63f6406e7ca7a19e15621f1e6b63ebf6e11f58704415835ee4be7e978fd09",
-      "download_count": 56,
+      "download_count": 96,
       "created_at": "2026-10-12T19:12:11Z",
       "updated_at": "2026-10-12T19:12:11Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-aarch64-unknown-linux-musl.tar.gz.sha256"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 15596040,
       "digest": "sha256:35e9a0244808d5b845f4b7ae78e2e0bf5f2a58159af1bcc5d10851f6463970fc",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-12T19:12:15Z",
       "updated_at": "2026-10-12T19:12:16Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-gui-0.5.3-aarch64.AppImage"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:7ef61612ff952807046760821d0ce991f2f494c86a3d36b56a4df838f2f3b7e0",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-12T19:12:17Z",
       "updated_at": "2026-10-12T19:12:17Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-gui-0.5.3-aarch64.AppImage.sha256"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 15800824,
       "digest": "sha256:ec76a3fe77e01e927269cb79a907149fa3837c1166133460cb429a86e2d745b3",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-10-12T19:12:16Z",
       "updated_at": "2026-10-12T19:12:16Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-gui-0.5.3-x86_64.AppImage"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 10152572,
       "digest": "sha256:6286d399e48e19c03849e5f606631909526aab889b9d012bd9af57a57dc6466a",
-      "download_count": 12,
+      "download_count": 22,
       "created_at": "2026-10-12T19:12:07Z",
       "updated_at": "2026-10-12T19:12:07Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-x86_64-apple-darwin.tar.xz"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:cf3b7e0dc2deb30b2dc37e59bfb27fefde9f66d7dd90b6584245efa4b6b794c3",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-12T19:12:09Z",
       "updated_at": "2026-10-12T19:12:09Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-x86_64-apple-darwin.tar.xz.sha256"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 13937116,
       "digest": "sha256:7e342d27523df9778d66059b08c1421dbd9a27d866f325d640274be66ac3fa0c",
-      "download_count": 516,
+      "download_count": 700,
       "created_at": "2026-10-12T19:12:11Z",
       "updated_at": "2026-10-12T19:12:12Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-x86_64-pc-windows-msvc.zip"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:4d96c20b4fa02325b780d3a0b33ed77bb23033c5ffbc3cb44ccc2852517a39fb",
-      "download_count": 35,
+      "download_count": 43,
       "created_at": "2026-10-12T19:12:13Z",
       "updated_at": "2026-10-12T19:12:13Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-x86_64-pc-windows-msvc.zip.sha256"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 10826552,
       "digest": "sha256:d86a912e3d31fa4bf0f7c4c514bb5bbebe1da3c4ab6f1e3ce7257ac88a87b94f",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-10-12T19:12:07Z",
       "updated_at": "2026-10-12T19:12:07Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-x86_64-unknown-freebsd.tar.xz"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 11308132,
       "digest": "sha256:8c7ab2006922d1aec31664dce014e8715a18c7c98df572a4d72fe8aaa16c8533",
-      "download_count": 825,
+      "download_count": 1118,
       "created_at": "2026-10-12T19:12:08Z",
       "updated_at": "2026-10-12T19:12:09Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-x86_64-unknown-linux-gnu.tar.xz"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 111,
       "digest": "sha256:de4a8b5034c86188cd1804e149e19ea95a53480a9180d9ee03cfe25e029fb4b0",
-      "download_count": 11,
+      "download_count": 15,
       "created_at": "2026-10-12T19:12:09Z",
       "updated_at": "2026-10-12T19:12:09Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 15162762,
       "digest": "sha256:01dd40f873b9420df9b5f0a271a12ced67140dbd4a990e9e8267091c5f75cdb5",
-      "download_count": 955,
+      "download_count": 1897,
       "created_at": "2026-10-12T19:12:10Z",
       "updated_at": "2026-10-12T19:12:11Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-x86_64-unknown-linux-musl.tar.gz"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 112,
       "digest": "sha256:d5cc01f9b3ed63730a03883db70d20ce98be349da0c401458c093e385a7741ff",
-      "download_count": 926,
+      "download_count": 1862,
       "created_at": "2026-10-12T19:12:11Z",
       "updated_at": "2026-10-12T19:12:12Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-x86_64-unknown-linux-musl.tar.gz.sha256"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 11358644,
       "digest": "sha256:85478ac108fc3f669f3a872176a5fa48e5c11d6c8c06bd0d2dfff1c484549ea7",
-      "download_count": 13,
+      "download_count": 31,
       "created_at": "2026-10-12T19:12:08Z",
       "updated_at": "2026-10-12T19:12:09Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor-x86_64-unknown-linux-musl.tar.xz"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 10492972,
       "digest": "sha256:604356bc602f7d6d4b969da00104645c65e2577b3f94baedff1a38eeac34edfe",
-      "download_count": 245,
+      "download_count": 306,
       "created_at": "2026-10-12T19:12:13Z",
       "updated_at": "2026-10-12T19:12:13Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor_0.5.3-1_amd64.deb"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": "sha256:631b8c92e569be0451250547a55eb027ed66d5a4c4f23f0fc6e66478ac27c0af",
-      "download_count": 137,
+      "download_count": 167,
       "created_at": "2026-10-12T19:12:13Z",
       "updated_at": "2026-10-12T19:12:14Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor_0.5.3-1_amd64.deb.sha256"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 10072888,
       "digest": "sha256:08cff5a67f0781db094c6c5d0ccbb6b14ed6bf71d6093ca465c4755dcc835f9a",
-      "download_count": 22,
+      "download_count": 29,
       "created_at": "2026-10-12T19:12:13Z",
       "updated_at": "2026-10-12T19:12:14Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor_0.5.3-1_arm64.deb"
@@ -1831,7 +1831,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": "sha256:f9309d9b96cf95d10777cf4927b40da913a247f504a5aad1c5a6730dd128ec1e",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-10-12T19:12:13Z",
       "updated_at": "2026-10-12T19:12:14Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-editor_0.5.3-1_arm64.deb.sha256"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 44956160,
       "digest": "sha256:65f35d60aca901f2f2ef36120f5e14734a41e80e781ba9d1c2bc4bcc9fca7960",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-10-12T19:12:18Z",
       "updated_at": "2026-10-12T19:12:20Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-gui-x86_64-pc-windows-msvc.exe"
@@ -1975,7 +1975,7 @@
       "state": "uploaded",
       "size": 16141101,
       "digest": "sha256:8b86175b1bc71e5c7ea1f9c2f913ee15cf6b3f69e6d418c3ae1785069654b2c1",
-      "download_count": 7,
+      "download_count": 11,
       "created_at": "2026-10-12T19:12:12Z",
       "updated_at": "2026-10-12T19:12:13Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-gui-x86_64-pc-windows-msvc.zip"
@@ -2011,7 +2011,7 @@
       "state": "uploaded",
       "size": 103,
       "digest": "sha256:226df524cc6dda7f25312e5fd26ad57274242022db3dcf5311145c29c2f4df57",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-12T19:12:13Z",
       "updated_at": "2026-10-12T19:12:13Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-gui-x86_64-pc-windows-msvc.zip.sha256"
@@ -2119,7 +2119,7 @@
       "state": "uploaded",
       "size": 5284524,
       "digest": "sha256:0bbc67c88a2564b479838b996921c99a445caa77942837bf159084ff885f4bb8",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-10-12T19:12:08Z",
       "updated_at": "2026-10-12T19:12:08Z",
       "browser_download_url": "https://github.com/sinelaw/fresh/releases/download/v0.5.3/fresh-min-size-x86_64-unknown-linux-musl.tar.xz"
