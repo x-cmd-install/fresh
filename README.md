@@ -32,105 +32,105 @@ Total: **814,655** lines of code across **1670** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.5.4` (2026-10-20)
-- **Last commit**: 2026-10-30
+- **Latest**: `v0.5.7` (2026-10-31)
+- **Last commit**: 2026-10-31
 - **Assets in release**: 72
 
 ## Popularity
 
-- **Stars**: 9,378 · **Forks**: 369 · **Open issues**: 1,362 · **Contributors**: 82
+- **Stars**: 9,384 · **Forks**: 371 · **Open issues**: 1,370 · **Contributors**: 82
 
 ## Totals (cumulative)
 
-- **Releases**: 110 · **Merged PRs**: 1976 · **Open PRs**: 79 · **Closed issues**: 1087 · **Open issues**: 275 · **Commits**: 9211
+- **Releases**: 111 · **Merged PRs**: 1979 · **Open PRs**: 81 · **Closed issues**: 1087 · **Open issues**: 283 · **Commits**: 9214
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 111 | 20 | 43 | 28 | 123 |
-| last60d | 2026-09-01 | 5 | 251 | 37 | 151 | 81 | 534 |
-| 90d | 2026-08-02 | 8 | 390 | 41 | 216 | 103 | 1084 |
-| last180d | 2026-05-04 | 23 | 954 | 64 | 502 | 188 | 3565 |
-| 360d | 2025-11-05 | 100 | 1956 | 79 | 1087 | 275 | 8862 |
-| last720d | 2024-11-10 | 100 | 1976 | 79 | 1087 | 275 | 9211 |
+| 30d | 2026-10-02 | 3 | 112 | 22 | 43 | 35 | 107 |
+| last60d | 2026-09-02 | 6 | 239 | 39 | 142 | 86 | 437 |
+| 90d | 2026-08-03 | 9 | 393 | 43 | 216 | 111 | 935 |
+| last180d | 2026-05-05 | 24 | 952 | 66 | 501 | 193 | 3313 |
+| 360d | 2025-11-06 | 100 | 1938 | 81 | 1087 | 283 | 8576 |
+| last720d | 2024-11-11 | 100 | 1979 | 81 | 1087 | 283 | 9214 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [fresh-desktop-0.5.4-linux-x86_64.AppImage](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-desktop-0.5.4-linux-x86_64.AppImage) | 124.0 MiB | `native/linux/x64` |
-| [fresh-desktop-0.5.4-linux-x86_64.AppImage.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-desktop-0.5.4-linux-x86_64.AppImage.sha256) | 108 B | `native/linux/x64` |
-| [fresh-desktop-0.5.4-macos-universal.dmg](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-desktop-0.5.4-macos-universal.dmg) | 247.9 MiB | `native/darwin/x64` |
-| [fresh-desktop-0.5.4-macos-universal.dmg.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-desktop-0.5.4-macos-universal.dmg.sha256) | 106 B | `native/darwin/x64` |
-| [fresh-desktop-0.5.4-windows-x64-setup.exe](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-desktop-0.5.4-windows-x64-setup.exe) | 104.4 MiB | `native/win/x64` |
-| [fresh-desktop-0.5.4-windows-x64-setup.exe.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-desktop-0.5.4-windows-x64-setup.exe.sha256) | 108 B | `native/win/x64` |
-| [fresh-editor-0.5.4-1.aarch64.rpm](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-0.5.4-1.aarch64.rpm) | 10.9 MiB | `runtime/rpm/aarch64` |
-| [fresh-editor-0.5.4-1.aarch64.rpm.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-0.5.4-1.aarch64.rpm.sha256) | 99 B | `other` |
-| [fresh-editor-0.5.4-1.x86_64.rpm](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-0.5.4-1.x86_64.rpm) | 10.6 MiB | `runtime/rpm/x86_64` |
-| [fresh-editor-0.5.4-1.x86_64.rpm.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-0.5.4-1.x86_64.rpm.sha256) | 98 B | `other` |
-| [fresh-editor-0.5.4-aarch64.AppImage](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-0.5.4-aarch64.AppImage) | 13.0 MiB | `other` |
-| [fresh-editor-0.5.4-aarch64.AppImage.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-0.5.4-aarch64.AppImage.sha256) | 102 B | `other` |
-| [fresh-editor-0.5.4-source.tar.gz](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-0.5.4-source.tar.gz) | 49.8 MiB | `native/unknown` |
-| [fresh-editor-0.5.4-source.tar.gz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-0.5.4-source.tar.gz.sha256) | 99 B | `other` |
-| [fresh-editor-0.5.4-x86_64.AppImage](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-0.5.4-x86_64.AppImage) | 13.2 MiB | `other` |
-| [fresh-editor-0.5.4-x86_64.AppImage.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-0.5.4-x86_64.AppImage.sha256) | 101 B | `other` |
-| [fresh-editor-0.5.4-x86_64.flatpak](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-0.5.4-x86_64.flatpak) | 11.0 MiB | `other` |
-| [fresh-editor-0.5.4-x86_64.flatpak.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-0.5.4-x86_64.flatpak.sha256) | 100 B | `other` |
-| [fresh-editor-aarch64-apple-darwin.tar.xz](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-aarch64-apple-darwin.tar.xz) | 9.8 MiB | `native/darwin/arm64` |
-| [fresh-editor-aarch64-apple-darwin.tar.xz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-aarch64-apple-darwin.tar.xz.sha256) | 107 B | `native/darwin/arm64` |
-| [fresh-editor-aarch64-pc-windows-msvc.zip](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-aarch64-pc-windows-msvc.zip) | 13.0 MiB | `native/win/arm64` |
-| [fresh-editor-aarch64-pc-windows-msvc.zip.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-aarch64-pc-windows-msvc.zip.sha256) | 107 B | `native/win/arm64` |
-| [fresh-editor-aarch64-unknown-linux-gnu.tar.xz](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-aarch64-unknown-linux-gnu.tar.xz) | 11.1 MiB | `native/linux/arm64/glibc` |
-| [fresh-editor-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-aarch64-unknown-linux-gnu.tar.xz.sha256) | 112 B | `native/linux/arm64/glibc` |
-| [fresh-editor-aarch64-unknown-linux-musl.tar.gz](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-aarch64-unknown-linux-musl.tar.gz) | 14.9 MiB | `native/linux/arm64/musl` |
-| [fresh-editor-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-aarch64-unknown-linux-musl.tar.gz.sha256) | 113 B | `native/linux/arm64/musl` |
-| [fresh-editor-aarch64-unknown-linux-musl.tar.xz](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-aarch64-unknown-linux-musl.tar.xz) | 11.0 MiB | `native/linux/arm64/musl` |
-| [fresh-editor-aarch64-unknown-linux-musl.tar.xz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-aarch64-unknown-linux-musl.tar.xz.sha256) | 113 B | `native/linux/arm64/musl` |
-| [fresh-editor-gui-0.5.4-aarch64.AppImage](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-gui-0.5.4-aarch64.AppImage) | 15.0 MiB | `other` |
-| [fresh-editor-gui-0.5.4-aarch64.AppImage.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-gui-0.5.4-aarch64.AppImage.sha256) | 106 B | `other` |
-| [fresh-editor-gui-0.5.4-x86_64.AppImage](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-gui-0.5.4-x86_64.AppImage) | 15.2 MiB | `other` |
-| [fresh-editor-gui-0.5.4-x86_64.AppImage.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-gui-0.5.4-x86_64.AppImage.sha256) | 105 B | `other` |
-| [fresh-editor-gui-aarch64-0.5.4.pkg](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-gui-aarch64-0.5.4.pkg) | 16.6 MiB | `other` |
-| [fresh-editor-gui-aarch64-0.5.4.pkg.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-gui-aarch64-0.5.4.pkg.sha256) | 101 B | `other` |
-| [fresh-editor-gui-universal-0.5.4.pkg](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-gui-universal-0.5.4.pkg) | 31.7 MiB | `other` |
-| [fresh-editor-gui-universal-0.5.4.pkg.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-gui-universal-0.5.4.pkg.sha256) | 103 B | `other` |
-| [fresh-editor-gui-x86_64-0.5.4.pkg](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-gui-x86_64-0.5.4.pkg) | 17.2 MiB | `other` |
-| [fresh-editor-gui-x86_64-0.5.4.pkg.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-gui-x86_64-0.5.4.pkg.sha256) | 100 B | `other` |
-| [fresh-editor-npm-package.tar.gz](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-npm-package.tar.gz) | 117.3 KiB | `native/unknown` |
-| [fresh-editor-x86_64-apple-darwin.tar.xz](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-x86_64-apple-darwin.tar.xz) | 9.8 MiB | `native/darwin/x64` |
-| [fresh-editor-x86_64-apple-darwin.tar.xz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-x86_64-apple-darwin.tar.xz.sha256) | 106 B | `native/darwin/x64` |
-| [fresh-editor-x86_64-pc-windows-msvc.zip](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-x86_64-pc-windows-msvc.zip) | 13.4 MiB | `native/win/x64` |
-| [fresh-editor-x86_64-pc-windows-msvc.zip.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-x86_64-pc-windows-msvc.zip.sha256) | 106 B | `native/win/x64` |
-| [fresh-editor-x86_64-unknown-freebsd.tar.xz](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-x86_64-unknown-freebsd.tar.xz) | 10.4 MiB | `other` |
-| [fresh-editor-x86_64-unknown-freebsd.tar.xz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-x86_64-unknown-freebsd.tar.xz.sha256) | 109 B | `other` |
-| [fresh-editor-x86_64-unknown-linux-gnu.tar.xz](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-x86_64-unknown-linux-gnu.tar.xz) | 10.9 MiB | `native/linux/x64/glibc` |
-| [fresh-editor-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-x86_64-unknown-linux-gnu.tar.xz.sha256) | 111 B | `native/linux/x64/glibc` |
-| [fresh-editor-x86_64-unknown-linux-musl.tar.gz](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-x86_64-unknown-linux-musl.tar.gz) | 14.6 MiB | `native/linux/x64/musl` |
-| [fresh-editor-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-x86_64-unknown-linux-musl.tar.gz.sha256) | 112 B | `native/linux/x64/musl` |
-| [fresh-editor-x86_64-unknown-linux-musl.tar.xz](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-x86_64-unknown-linux-musl.tar.xz) | 11.0 MiB | `native/linux/x64/musl` |
-| [fresh-editor-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor-x86_64-unknown-linux-musl.tar.xz.sha256) | 112 B | `native/linux/x64/musl` |
-| [fresh-editor_0.5.4-1.debian-testing-source.tar.gz](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor_0.5.4-1.debian-testing-source.tar.gz) | 42.7 MiB | `native/unknown` |
-| [fresh-editor_0.5.4-1.debian-testing-source.tar.gz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor_0.5.4-1.debian-testing-source.tar.gz.sha256) | 116 B | `other` |
-| [fresh-editor_0.5.4-1.debian.tar.xz](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor_0.5.4-1.debian.tar.xz) | 2.9 KiB | `other` |
-| [fresh-editor_0.5.4-1_amd64.deb](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor_0.5.4-1_amd64.deb) | 10.1 MiB | `runtime/deb/amd64` |
-| [fresh-editor_0.5.4-1_amd64.deb.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor_0.5.4-1_amd64.deb.sha256) | 97 B | `other` |
-| [fresh-editor_0.5.4-1_amd64.debian-testing.deb](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor_0.5.4-1_amd64.debian-testing.deb) | 8.9 MiB | `other` |
-| [fresh-editor_0.5.4-1_amd64.debian-testing.deb.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor_0.5.4-1_amd64.debian-testing.deb.sha256) | 112 B | `other` |
-| [fresh-editor_0.5.4-1_arm64.deb](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor_0.5.4-1_arm64.deb) | 9.7 MiB | `runtime/deb/arm64` |
-| [fresh-editor_0.5.4-1_arm64.deb.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor_0.5.4-1_arm64.deb.sha256) | 97 B | `other` |
-| [fresh-editor_0.5.4-1_arm64.debian-testing.deb](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor_0.5.4-1_arm64.debian-testing.deb) | 8.3 MiB | `other` |
-| [fresh-editor_0.5.4-1_arm64.debian-testing.deb.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor_0.5.4-1_arm64.debian-testing.deb.sha256) | 112 B | `other` |
-| [fresh-editor_0.5.4.orig.tar.gz](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-editor_0.5.4.orig.tar.gz) | 177.4 MiB | `native/unknown` |
-| [fresh-gui-x86_64-pc-windows-msvc.exe](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-gui-x86_64-pc-windows-msvc.exe) | 43.2 MiB | `native/win/x64` |
-| [fresh-gui-x86_64-pc-windows-msvc.exe.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-gui-x86_64-pc-windows-msvc.exe.sha256) | 103 B | `native/win/x64` |
-| [fresh-gui-x86_64-pc-windows-msvc.zip](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-gui-x86_64-pc-windows-msvc.zip) | 15.5 MiB | `native/win/x64` |
-| [fresh-gui-x86_64-pc-windows-msvc.zip.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-gui-x86_64-pc-windows-msvc.zip.sha256) | 103 B | `native/win/x64` |
-| [fresh-min-size-aarch64-unknown-linux-musl.tar.xz](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-min-size-aarch64-unknown-linux-musl.tar.xz) | 4.7 MiB | `native/linux/arm64/musl` |
-| [fresh-min-size-aarch64-unknown-linux-musl.tar.xz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-min-size-aarch64-unknown-linux-musl.tar.xz.sha256) | 115 B | `native/linux/arm64/musl` |
-| [fresh-min-size-x86_64-unknown-linux-musl.tar.xz](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-min-size-x86_64-unknown-linux-musl.tar.xz) | 5.1 MiB | `native/linux/x64/musl` |
-| [fresh-min-size-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh-min-size-x86_64-unknown-linux-musl.tar.xz.sha256) | 114 B | `native/linux/x64/musl` |
-| [fresh.rb](https://github.com/sinelaw/fresh/releases/download/v0.5.4/fresh.rb) | 1.8 KiB | `other` |
+| [fresh-desktop-0.5.7-linux-x86_64.AppImage](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-desktop-0.5.7-linux-x86_64.AppImage) | 125.0 MiB | `native/linux/x64` |
+| [fresh-desktop-0.5.7-linux-x86_64.AppImage.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-desktop-0.5.7-linux-x86_64.AppImage.sha256) | 108 B | `native/linux/x64` |
+| [fresh-desktop-0.5.7-macos-universal.dmg](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-desktop-0.5.7-macos-universal.dmg) | 250.0 MiB | `native/darwin/x64` |
+| [fresh-desktop-0.5.7-macos-universal.dmg.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-desktop-0.5.7-macos-universal.dmg.sha256) | 106 B | `native/darwin/x64` |
+| [fresh-desktop-0.5.7-windows-x64-setup.exe](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-desktop-0.5.7-windows-x64-setup.exe) | 104.8 MiB | `native/win/x64` |
+| [fresh-desktop-0.5.7-windows-x64-setup.exe.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-desktop-0.5.7-windows-x64-setup.exe.sha256) | 108 B | `native/win/x64` |
+| [fresh-editor-0.5.7-1.aarch64.rpm](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-0.5.7-1.aarch64.rpm) | 11.2 MiB | `runtime/rpm/aarch64` |
+| [fresh-editor-0.5.7-1.aarch64.rpm.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-0.5.7-1.aarch64.rpm.sha256) | 99 B | `other` |
+| [fresh-editor-0.5.7-1.x86_64.rpm](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-0.5.7-1.x86_64.rpm) | 10.9 MiB | `runtime/rpm/x86_64` |
+| [fresh-editor-0.5.7-1.x86_64.rpm.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-0.5.7-1.x86_64.rpm.sha256) | 98 B | `other` |
+| [fresh-editor-0.5.7-aarch64.AppImage](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-0.5.7-aarch64.AppImage) | 14.0 MiB | `other` |
+| [fresh-editor-0.5.7-aarch64.AppImage.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-0.5.7-aarch64.AppImage.sha256) | 102 B | `other` |
+| [fresh-editor-0.5.7-source.tar.gz](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-0.5.7-source.tar.gz) | 50.0 MiB | `native/unknown` |
+| [fresh-editor-0.5.7-source.tar.gz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-0.5.7-source.tar.gz.sha256) | 99 B | `other` |
+| [fresh-editor-0.5.7-x86_64.AppImage](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-0.5.7-x86_64.AppImage) | 14.1 MiB | `other` |
+| [fresh-editor-0.5.7-x86_64.AppImage.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-0.5.7-x86_64.AppImage.sha256) | 101 B | `other` |
+| [fresh-editor-0.5.7-x86_64.flatpak](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-0.5.7-x86_64.flatpak) | 11.3 MiB | `other` |
+| [fresh-editor-0.5.7-x86_64.flatpak.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-0.5.7-x86_64.flatpak.sha256) | 100 B | `other` |
+| [fresh-editor-aarch64-apple-darwin.tar.xz](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-aarch64-apple-darwin.tar.xz) | 10.1 MiB | `native/darwin/arm64` |
+| [fresh-editor-aarch64-apple-darwin.tar.xz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-aarch64-apple-darwin.tar.xz.sha256) | 107 B | `native/darwin/arm64` |
+| [fresh-editor-aarch64-pc-windows-msvc.zip](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-aarch64-pc-windows-msvc.zip) | 14.1 MiB | `native/win/arm64` |
+| [fresh-editor-aarch64-pc-windows-msvc.zip.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-aarch64-pc-windows-msvc.zip.sha256) | 107 B | `native/win/arm64` |
+| [fresh-editor-aarch64-unknown-linux-gnu.tar.xz](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-aarch64-unknown-linux-gnu.tar.xz) | 11.4 MiB | `native/linux/arm64/glibc` |
+| [fresh-editor-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-aarch64-unknown-linux-gnu.tar.xz.sha256) | 112 B | `native/linux/arm64/glibc` |
+| [fresh-editor-aarch64-unknown-linux-musl.tar.gz](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-aarch64-unknown-linux-musl.tar.gz) | 15.9 MiB | `native/linux/arm64/musl` |
+| [fresh-editor-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-aarch64-unknown-linux-musl.tar.gz.sha256) | 113 B | `native/linux/arm64/musl` |
+| [fresh-editor-aarch64-unknown-linux-musl.tar.xz](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-aarch64-unknown-linux-musl.tar.xz) | 11.3 MiB | `native/linux/arm64/musl` |
+| [fresh-editor-aarch64-unknown-linux-musl.tar.xz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-aarch64-unknown-linux-musl.tar.xz.sha256) | 113 B | `native/linux/arm64/musl` |
+| [fresh-editor-gui-0.5.7-aarch64.AppImage](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-gui-0.5.7-aarch64.AppImage) | 15.9 MiB | `other` |
+| [fresh-editor-gui-0.5.7-aarch64.AppImage.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-gui-0.5.7-aarch64.AppImage.sha256) | 106 B | `other` |
+| [fresh-editor-gui-0.5.7-x86_64.AppImage](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-gui-0.5.7-x86_64.AppImage) | 16.2 MiB | `other` |
+| [fresh-editor-gui-0.5.7-x86_64.AppImage.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-gui-0.5.7-x86_64.AppImage.sha256) | 105 B | `other` |
+| [fresh-editor-gui-aarch64-0.5.7.pkg](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-gui-aarch64-0.5.7.pkg) | 17.7 MiB | `other` |
+| [fresh-editor-gui-aarch64-0.5.7.pkg.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-gui-aarch64-0.5.7.pkg.sha256) | 101 B | `other` |
+| [fresh-editor-gui-universal-0.5.7.pkg](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-gui-universal-0.5.7.pkg) | 33.9 MiB | `other` |
+| [fresh-editor-gui-universal-0.5.7.pkg.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-gui-universal-0.5.7.pkg.sha256) | 103 B | `other` |
+| [fresh-editor-gui-x86_64-0.5.7.pkg](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-gui-x86_64-0.5.7.pkg) | 18.3 MiB | `other` |
+| [fresh-editor-gui-x86_64-0.5.7.pkg.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-gui-x86_64-0.5.7.pkg.sha256) | 100 B | `other` |
+| [fresh-editor-npm-package.tar.gz](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-npm-package.tar.gz) | 119.1 KiB | `native/unknown` |
+| [fresh-editor-x86_64-apple-darwin.tar.xz](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-x86_64-apple-darwin.tar.xz) | 10.1 MiB | `native/darwin/x64` |
+| [fresh-editor-x86_64-apple-darwin.tar.xz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-x86_64-apple-darwin.tar.xz.sha256) | 106 B | `native/darwin/x64` |
+| [fresh-editor-x86_64-pc-windows-msvc.zip](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-x86_64-pc-windows-msvc.zip) | 14.5 MiB | `native/win/x64` |
+| [fresh-editor-x86_64-pc-windows-msvc.zip.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-x86_64-pc-windows-msvc.zip.sha256) | 106 B | `native/win/x64` |
+| [fresh-editor-x86_64-unknown-freebsd.tar.xz](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-x86_64-unknown-freebsd.tar.xz) | 10.7 MiB | `other` |
+| [fresh-editor-x86_64-unknown-freebsd.tar.xz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-x86_64-unknown-freebsd.tar.xz.sha256) | 109 B | `other` |
+| [fresh-editor-x86_64-unknown-linux-gnu.tar.xz](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-x86_64-unknown-linux-gnu.tar.xz) | 11.2 MiB | `native/linux/x64/glibc` |
+| [fresh-editor-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-x86_64-unknown-linux-gnu.tar.xz.sha256) | 111 B | `native/linux/x64/glibc` |
+| [fresh-editor-x86_64-unknown-linux-musl.tar.gz](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-x86_64-unknown-linux-musl.tar.gz) | 15.7 MiB | `native/linux/x64/musl` |
+| [fresh-editor-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-x86_64-unknown-linux-musl.tar.gz.sha256) | 112 B | `native/linux/x64/musl` |
+| [fresh-editor-x86_64-unknown-linux-musl.tar.xz](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-x86_64-unknown-linux-musl.tar.xz) | 11.3 MiB | `native/linux/x64/musl` |
+| [fresh-editor-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-x86_64-unknown-linux-musl.tar.xz.sha256) | 112 B | `native/linux/x64/musl` |
+| [fresh-editor_0.5.7-1.debian-testing-source.tar.gz](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor_0.5.7-1.debian-testing-source.tar.gz) | 43.1 MiB | `native/unknown` |
+| [fresh-editor_0.5.7-1.debian-testing-source.tar.gz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor_0.5.7-1.debian-testing-source.tar.gz.sha256) | 116 B | `other` |
+| [fresh-editor_0.5.7-1.debian.tar.xz](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor_0.5.7-1.debian.tar.xz) | 2.9 KiB | `other` |
+| [fresh-editor_0.5.7-1_amd64.deb](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor_0.5.7-1_amd64.deb) | 10.4 MiB | `runtime/deb/amd64` |
+| [fresh-editor_0.5.7-1_amd64.deb.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor_0.5.7-1_amd64.deb.sha256) | 97 B | `other` |
+| [fresh-editor_0.5.7-1_amd64.debian-testing.deb](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor_0.5.7-1_amd64.debian-testing.deb) | 9.0 MiB | `other` |
+| [fresh-editor_0.5.7-1_amd64.debian-testing.deb.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor_0.5.7-1_amd64.debian-testing.deb.sha256) | 112 B | `other` |
+| [fresh-editor_0.5.7-1_arm64.deb](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor_0.5.7-1_arm64.deb) | 10.0 MiB | `runtime/deb/arm64` |
+| [fresh-editor_0.5.7-1_arm64.deb.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor_0.5.7-1_arm64.deb.sha256) | 97 B | `other` |
+| [fresh-editor_0.5.7-1_arm64.debian-testing.deb](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor_0.5.7-1_arm64.debian-testing.deb) | 8.3 MiB | `other` |
+| [fresh-editor_0.5.7-1_arm64.debian-testing.deb.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor_0.5.7-1_arm64.debian-testing.deb.sha256) | 112 B | `other` |
+| [fresh-editor_0.5.7.orig.tar.gz](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor_0.5.7.orig.tar.gz) | 177.4 MiB | `native/unknown` |
+| [fresh-gui-x86_64-pc-windows-msvc.exe](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-gui-x86_64-pc-windows-msvc.exe) | 46.8 MiB | `native/win/x64` |
+| [fresh-gui-x86_64-pc-windows-msvc.exe.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-gui-x86_64-pc-windows-msvc.exe.sha256) | 103 B | `native/win/x64` |
+| [fresh-gui-x86_64-pc-windows-msvc.zip](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-gui-x86_64-pc-windows-msvc.zip) | 16.6 MiB | `native/win/x64` |
+| [fresh-gui-x86_64-pc-windows-msvc.zip.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-gui-x86_64-pc-windows-msvc.zip.sha256) | 103 B | `native/win/x64` |
+| [fresh-min-size-aarch64-unknown-linux-musl.tar.xz](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-min-size-aarch64-unknown-linux-musl.tar.xz) | 4.7 MiB | `native/linux/arm64/musl` |
+| [fresh-min-size-aarch64-unknown-linux-musl.tar.xz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-min-size-aarch64-unknown-linux-musl.tar.xz.sha256) | 115 B | `native/linux/arm64/musl` |
+| [fresh-min-size-x86_64-unknown-linux-musl.tar.xz](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-min-size-x86_64-unknown-linux-musl.tar.xz) | 5.1 MiB | `native/linux/x64/musl` |
+| [fresh-min-size-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-min-size-x86_64-unknown-linux-musl.tar.xz.sha256) | 114 B | `native/linux/x64/musl` |
+| [fresh.rb](https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh.rb) | 1.8 KiB | `other` |
 
 ## Improve this data
 
@@ -141,4 +141,4 @@ Install metadata for fresh lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:35:56Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:02:26Z._
