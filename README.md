@@ -14,7 +14,7 @@ x install fresh
 
 ## Code insight
 
-Total: **819,167** lines of code across **1675** files in the top 5 languages.
+Total: **819,416** lines of code across **1675** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,27 +33,27 @@ Total: **819,167** lines of code across **1675** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.8` (2026-11-06)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-07
 - **Assets in release**: 72
 
 ## Popularity
 
-- **Stars**: 9,419 · **Forks**: 375 · **Open issues**: 1,387 · **Contributors**: 84
+- **Stars**: 9,427 · **Forks**: 376 · **Open issues**: 1,387 · **Contributors**: 84
 
 ## Totals (cumulative)
 
-- **Releases**: 112 · **Merged PRs**: 1997 · **Open PRs**: 81 · **Closed issues**: 1112 · **Open issues**: 275 · **Commits**: 9232
+- **Releases**: 112 · **Merged PRs**: 2000 · **Open PRs**: 82 · **Closed issues**: 1112 · **Open issues**: 275 · **Commits**: 9235
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 4 | 104 | 23 | 47 | 26 | 125 |
-| last60d | 2026-09-08 | 7 | 221 | 37 | 150 | 64 | 455 |
-| 90d | 2026-08-09 | 9 | 380 | 43 | 229 | 98 | 953 |
-| last180d | 2026-05-11 | 23 | 945 | 66 | 511 | 178 | 3331 |
-| 360d | 2025-11-12 | 100 | 1919 | 81 | 1112 | 275 | 8594 |
-| last720d | 2024-11-17 | 100 | 1997 | 81 | 1112 | 275 | 9232 |
+| 30d | 2026-10-09 | 4 | 107 | 24 | 45 | 23 | 128 |
+| last60d | 2026-09-09 | 6 | 221 | 38 | 146 | 64 | 458 |
+| 90d | 2026-08-10 | 9 | 365 | 44 | 226 | 98 | 956 |
+| last180d | 2026-05-12 | 23 | 943 | 66 | 508 | 177 | 3334 |
+| 360d | 2025-11-13 | 100 | 1914 | 82 | 1112 | 275 | 8597 |
+| last720d | 2024-11-18 | 100 | 2000 | 82 | 1112 | 275 | 9235 |
 
 ## Release assets
 
@@ -141,4 +141,4 @@ Install metadata for fresh lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:06:49Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:58:05Z._
