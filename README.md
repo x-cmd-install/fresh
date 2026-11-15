@@ -14,13 +14,13 @@ x install fresh
 
 ## Code insight
 
-Total: **830,257** lines of code across **1700** files in the top 5 languages.
+Total: **834,082** lines of code across **1705** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 636,445 | 76,094 | 81,826 | 1404 |
-| Json | 94,339 | 0 | 20 | 103 |
-| TypeScript | 61,513 | 29,788 | 7,191 | 130 |
+| Rust | 639,751 | 76,353 | 82,168 | 1409 |
+| Json | 94,493 | 0 | 20 | 103 |
+| TypeScript | 61,878 | 30,308 | 7,292 | 130 |
 | Python | 12,088 | 591 | 1,916 | 54 |
 | Svg | 8,615 | 19 | 7 | 9 |
 
@@ -33,27 +33,27 @@ Total: **830,257** lines of code across **1700** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.8` (2026-11-06)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-15
 - **Assets in release**: 72
 
 ## Popularity
 
-- **Stars**: 9,485 · **Forks**: 379 · **Open issues**: 1,392 · **Contributors**: 87
+- **Stars**: 9,490 · **Forks**: 380 · **Open issues**: 1,396 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 112 · **Merged PRs**: 2022 · **Open PRs**: 75 · **Closed issues**: 1118 · **Open issues**: 274 · **Commits**: 9257
+- **Releases**: 112 · **Merged PRs**: 2030 · **Open PRs**: 69 · **Closed issues**: 1119 · **Open issues**: 277 · **Commits**: 9265
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 3 | 100 | 16 | 40 | 22 | 119 |
-| last60d | 2026-09-15 | 5 | 220 | 26 | 132 | 54 | 439 |
-| 90d | 2026-08-16 | 8 | 356 | 35 | 214 | 94 | 752 |
-| last180d | 2026-05-18 | 22 | 920 | 57 | 487 | 166 | 3031 |
-| 360d | 2025-11-19 | 100 | 1896 | 75 | 1118 | 274 | 8261 |
-| last720d | 2024-11-24 | 100 | 2022 | 75 | 1118 | 274 | 9257 |
+| 30d | 2026-10-16 | 3 | 104 | 10 | 38 | 26 | 84 |
+| last60d | 2026-09-16 | 5 | 223 | 21 | 130 | 52 | 388 |
+| 90d | 2026-08-17 | 8 | 362 | 29 | 215 | 97 | 680 |
+| last180d | 2026-05-19 | 21 | 922 | 51 | 482 | 165 | 2806 |
+| 360d | 2025-11-20 | 100 | 1900 | 69 | 1118 | 276 | 7945 |
+| last720d | 2024-11-25 | 100 | 2030 | 69 | 1119 | 277 | 9265 |
 
 ## Release assets
 
@@ -141,4 +141,4 @@ Install metadata for fresh lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:53:42Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:52:44Z._
