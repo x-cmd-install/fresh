@@ -14,11 +14,11 @@ x install fresh
 
 ## Code insight
 
-Total: **854,646** lines of code across **1761** files in the top 5 languages.
+Total: **854,698** lines of code across **1761** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 656,886 | 77,102 | 83,417 | 1430 |
+| Rust | 656,938 | 77,102 | 83,417 | 1430 |
 | Json | 95,224 | 0 | 20 | 111 |
 | TypeScript | 63,249 | 31,316 | 7,359 | 134 |
 | Python | 13,489 | 665 | 2,147 | 76 |
@@ -38,22 +38,22 @@ Total: **854,646** lines of code across **1761** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,568 · **Forks**: 385 · **Open issues**: 1,464 · **Contributors**: 92
+- **Stars**: 9,576 · **Forks**: 386 · **Open issues**: 1,466 · **Contributors**: 93
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 2064 · **Open PRs**: 74 · **Closed issues**: 1165 · **Open issues**: 299 · **Commits**: 9355
+- **Releases**: 113 · **Merged PRs**: 2065 · **Open PRs**: 76 · **Closed issues**: 1165 · **Open issues**: 301 · **Commits**: 9356
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 3 | 96 | 11 | 61 | 47 | 0 |
-| last60d | 2026-09-27 | 6 | 210 | 22 | 123 | 73 | 0 |
-| 90d | 2026-08-28 | 8 | 349 | 32 | 238 | 113 | 0 |
-| last180d | 2026-05-30 | 19 | 899 | 56 | 488 | 183 | 0 |
-| 360d | 2025-12-01 | 100 | 1893 | 74 | 1146 | 295 | 0 |
-| last720d | 2024-12-06 | 100 | 2064 | 74 | 1165 | 299 | 9355 |
+| 30d | 2026-10-28 | 3 | 96 | 13 | 61 | 48 | 0 |
+| last60d | 2026-09-28 | 6 | 207 | 22 | 120 | 72 | 0 |
+| 90d | 2026-08-29 | 8 | 349 | 34 | 234 | 115 | 0 |
+| last180d | 2026-05-31 | 19 | 889 | 58 | 486 | 183 | 0 |
+| 360d | 2025-12-02 | 100 | 1891 | 76 | 1144 | 297 | 0 |
+| last720d | 2024-12-07 | 100 | 2065 | 76 | 1165 | 301 | 9356 |
 
 ## Release assets
 
@@ -141,4 +141,4 @@ Install metadata for fresh lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T10:05:11Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:27:33Z._
